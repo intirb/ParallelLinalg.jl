@@ -1,0 +1,1 @@
+This package implements distributed dense linear algebra.  Specifically, it focuses on algorithms called DPLASMA, described here: http://icl.cs.utk.edu/news_pub/submissions/DPLASMA_technical_report.pdf
